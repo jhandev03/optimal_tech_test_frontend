@@ -1,83 +1,65 @@
+README de Optimal Tech - Atractivo y Mejorado
+🌟 Optimal Tech - Frontend 🌟
+Este repositorio contiene el código del frontend para el proyecto Optimal Tech, desarrollado usando React junto con Vite. La interfaz de usuario ofrece un diseño minimalista e intuitivo que interactúa eficientemente con una API RESTful para gestionar items.
 
----
-
-### **README del Frontend (Markdown Completo)**
-
-```markdown
-# Optimal Tech - Frontend
-
-Este es el frontend del proyecto **Optimal Tech**, desarrollado con **React** y **Vite**. La aplicación permite gestionar items a través de una interfaz de usuario minimalista que interactúa con la API RESTful.
-
-## 📦 Características
-
-- Operaciones CRUD para items.
-- Integración con el backend mediante **Axios**.
-- Estilos creados con **Styled Components**.
-- Animaciones con **Framer Motion**.
-- Desplegado en **Render**.
-- Contenerizado con **Docker**.
-
-## 🛠️ Instalación
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/optimal-tech-frontend.git
-
-Navega al directorio del proyecto:
+📋 Características Principales
+🚀 CRUD Completo: Realiza operaciones de Crear, Leer, Actualizar y Eliminar items.
+🔗 Integración Backend: Conexión a la API usando Axios.
+🎨 Estilos Dinámicos: Implementados con Styled Components para mayor flexibilidad.
+💫 Animaciones Fluidas: Movimientos suaves y atractivos gracias a Framer Motion.
+🌐 Desplegado en Render: Aplicación desplegada y lista en Render.
+🐳 Docker: Listo para contenerización y despliegue en cualquier entorno.
+🛠️ Guía de Instalación
+Paso 1: Clonar el Repositorio
+git clone https://github.com/jhandev03/optimal_tech_test_frontend
 cd optimal-tech-frontend
-
-Instala las dependencias:
+Paso 2: Instalar Dependencias
 npm install
-
-Configura las variables de entorno (ver sección Variables de Entorno).
-
-Inicia la aplicación en modo desarrollo:
+Paso 3: Configurar Variables de Entorno
+Crea un archivo .env en la raíz del proyecto y define la siguiente variable:
+VITE_API_URL=https://optimal-tech-test-backend.onrender.com
+Paso 4: Iniciar en Modo Desarrollo
 
 npm run dev
-El frontend estará corriendo en http://localhost:3000.
+La aplicación estará disponible en: http://localhost:3000.
 
-⚙️ Variables de Entorno
-Crea un archivo .env en la raíz del proyecto y define la siguiente variable:
+🐋 Ejecutar con Docker
+Construir la Imagen Docker
 
-env
-Copiar código
-VITE_API_URL=https://optimal-test-backend.onrender.com
-🐋 Uso con Docker
-Este proyecto está contenerizado para facilitar su despliegue en cualquier entorno.
-
-Construir y Ejecutar el Contenedor
-Construir la imagen:
-bash
-Copiar código
 docker build -t optimal-tech-frontend .
-Ejecutar el contenedor:
-bash
-Copiar código
+Ejecutar el Contenedor
+
 docker run -p 3000:80 optimal-tech-frontend
-El frontend estará disponible en http://localhost:3000.
+Accede a la aplicación en http://localhost:3000.
 
-🚀 Despliegue
-Despliegue en Render
-El frontend está configurado para ser desplegado en Render:
+🚀 Despliegue en Vercel
+Este proyecto está configurado para desplegarse automáticamente en Vercel:
 
-Crea un nuevo servicio de Static Site en Render.
-Conecta el repositorio y añade la variable de entorno VITE_API_URL.
-Render se encargará del despliegue automático.
-💻 Tecnologías Usadas
-React
-Vite
-Styled Components
-Framer Motion
-Axios
-Docker
-Render
-🤝 Contribución
-Si deseas contribuir a este proyecto, sigue estos pasos:
+Crea un nuevo servicio en Vercel.
+Conecta tu repositorio y añade la variable de entorno VITE_API_URL.
+Vercel se encargará del despliegue automático por ti.
+🛠️ Tecnologías Utilizadas
+React ⚛️
+Vite ⚡
+Styled Components 💅
+Framer Motion 🎥
+Axios 🔗
+Docker 🐳
+Vercel 🌍
+🤝 Contribuciones
+¡Tu ayuda es bienvenida! Si deseas contribuir, sigue estos pasos:
 
 Haz un fork del repositorio.
-Crea una nueva rama (git checkout -b feature/feature-name).
-Realiza tus cambios y haz commit (git commit -am 'Add new feature').
-Haz push a la rama (git push origin feature/feature-name).
-Abre un Pull Request.
-💖 ¿Te gusta mi proyecto?
-Para cualquier pregunta o sugerencia, no dudes en ponerte en contacto conmigo a través de jhandurango03@gmail.com.
+Crea una rama con tu nueva funcionalidad:
+
+git checkout -b feature/feature-name
+Realiza los cambios y haz commit:
+git commit -am 'Add new feature'
+Haz push a tu rama:
+git push origin feature/feature-name
+Abre un Pull Request y describe tu contribución.
+💖 ¿Te Gusta el Proyecto?
+Para preguntas, sugerencias o contribuciones, no dudes en ponerte en contacto conmigo:
+
+📧 Correo: jhandurango03@gmail.com
+
