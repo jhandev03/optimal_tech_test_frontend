@@ -11,7 +11,7 @@ Este repositorio contiene el código del frontend para el proyecto Optimal Tech,
 
 💫 Animaciones Fluidas: Movimientos suaves y atractivos gracias a Framer Motion.
 
-🌐 Desplegado en Render: Aplicación desplegada y lista en Vercel
+🌐 Desplegado en Render: Aplicación desplegada y lista en Vercel, puedes acceder a el proyecto desde optimal-tech-test-frontend.vercel.app
 
 🐳 Docker: Listo para contenerización y despliegue en cualquier entorno.
 
