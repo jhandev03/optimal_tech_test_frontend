@@ -1,5 +1,4 @@
-README de Optimal Tech - Atractivo y Mejorado
-🌟 Optimal Tech - Frontend 🌟
+🌟 Optimal Tech - Check Items - Frontend 🌟
 Este repositorio contiene el código del frontend para el proyecto Optimal Tech, desarrollado usando React junto con Vite. La interfaz de usuario ofrece un diseño minimalista e intuitivo que interactúa eficientemente con una API RESTful para gestionar items.
 
 📋 Características Principales
