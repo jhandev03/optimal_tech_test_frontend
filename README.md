@@ -18,8 +18,8 @@ Este repositorio contiene el código del frontend para el proyecto Optimal Tech,
 🛠️ Guía de Instalación
 
 Paso 1: Clonar el Repositorio
-git clone https://github.com/jhandev03/optimal_tech_test_frontend
-cd optimal-tech-frontend
+git clone https://github.com/jhandev03/optimal_tech_test_frontend.git
+cd optimal_tech_test_frontend
 
 Paso 2: Instalar Dependencias
 npm install
