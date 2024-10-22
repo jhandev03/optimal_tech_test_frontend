@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/confirmmodal/index.tsx","./src/components/confirmmodal/styles.tsx","./src/components/itemform/index.tsx","./src/components/itemform/styles.tsx","./src/hooks/useitems.tsx","./src/pages/home.tsx","./src/pages/itemsdetails.tsx","./src/services/itemsservices.ts"],"version":"5.6.3"}
