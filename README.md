@@ -25,7 +25,7 @@ Paso 2: Instalar Dependencias
 npm install
 
 Paso 3: Configurar Variables de Entorno
-Crea un archivo .env en la raíz del proyecto y define la siguiente variable:
+Crea un archivo .env en la raíz del proyecto segun como esta en el .env.template y define la siguiente variable:
 VITE_API_URL=https://optimal-tech-test-backend.onrender.com
 
 Paso 4: Iniciar en Modo Desarrollo
