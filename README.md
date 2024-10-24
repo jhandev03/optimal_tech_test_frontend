@@ -1,5 +1,5 @@
-🌟 Optimal Tech - Check Items - Frontend 🌟
-Este repositorio contiene el código del frontend para el proyecto Optimal Tech, desarrollado usando React junto con Vite. La interfaz de usuario ofrece un diseño minimalista e intuitivo que interactúa eficientemente con una API RESTful para gestionar items.
+🌟 Crud Check Items - Frontend 🌟
+Este repositorio contiene el código del frontend para el proyecto de la prueba tecnica Crud, desarrollado usando React junto con Vite. La interfaz de usuario ofrece un diseño minimalista e intuitivo que interactúa eficientemente con una API RESTful para gestionar items.
 
 📋 Características Principales
 
